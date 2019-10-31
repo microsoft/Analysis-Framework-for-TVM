@@ -1,1 +1,1 @@
-TODO: Create a file called LICENSE (not LICENSE.TXT, LICENSE.md, etc.)…
+This is a static analysis framework for analyzing programs written in Relay, TVM's intermediate representation. TVM is an open source deep learning compiler developed at the University of Washington. This framework was developed on top of TVM during Gus Smith's internship at Microsoft with the Azure Hardware Systems Group, summer 2019.
